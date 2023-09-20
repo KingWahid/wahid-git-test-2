@@ -8,5 +8,11 @@
 <body>
     <h1>git adalah sebauh verdsin contorl yang sanagat di minati prgrammer</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, cum. Eligendi, quia. Quasi distinctio velit, ducimus numquam in animi labore tempora deleniti similique magni corrupti nulla consectetur repellat perferendis aspernatur.</p>
+    <ul>
+        <li>wahidan nashrullah</li>
+        <li>khansa afiyah</li>
+        <li>shinta aprilia</li>
+        <li>keisha fayza</li>
+    </ul>
 </body>
 </html>
